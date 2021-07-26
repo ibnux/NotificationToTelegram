@@ -10,8 +10,13 @@ ditambahkan family link dan Team Viewer
 
 ngga ah, aplikasinya berbahaya, bisa disalahgunakan 
 
+# Download
+
+  di bagian [Release](https://github.com/ibnux/NotificationToTelegram/releases)
+
 # Caranya
 
+- Tinggal setting Bot ID dan Chat ID
 - [Cara bikin Telegram Bot](https://www.google.com/search?q=cara+bikin+telegram+bot)
 - [Cara megetahui chat ID](https://core.telegram.org/bots/api#getupdates), biasaya harus kirim pesan dulu
 
